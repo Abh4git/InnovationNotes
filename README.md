@@ -57,16 +57,3 @@ The overlap of these considerations represents an ideal innovation space where n
 - Appears to guide the process of clarifying customer needs, identifying opportunity space, and strategic questioning.
 
 ---
-
-### **Process Overview**:
-- The innovation process seems to follow these steps:
-  1. **Strategic question**
-  2. **Customer needs**
-  3. **Novel concept**
-  4. **Value propositions**
-  5. **Customer trials**
-  6. **Product development**
-
----
-
-The notes emphasize a **customer-centric innovation process** where customer needs drive the strategic direction, novel ideas, value creation, and the eventual development of new products or services.
