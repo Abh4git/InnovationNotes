@@ -42,8 +42,8 @@ The overlap of these considerations represents an ideal innovation space where n
 - Refine the value proposition.
 ---
 
-![Reference 1](https://www.ieee-tems.org/)
-![References 2](https://jimeuchner.com/wp-content/uploads/2019/09/innovation-as-the-management-constraints.pdf)
+[Reference 1](https://www.ieee-tems.org/)
+[References 2](https://jimeuchner.com/wp-content/uploads/2019/09/innovation-as-the-management-constraints.pdf)
 
 
 
