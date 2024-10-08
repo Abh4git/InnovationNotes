@@ -15,45 +15,35 @@ The overlap of these considerations represents an ideal innovation space where n
 
 ### **A) Start a Strategic Question**:
 - The first step is to start with a strategic question.
-- **Degree or boundaries**: Define the areas to explore for opportunities.
-- Match the company’s **capacity** and **interest** with opportunities.
+- Define boundaries within which to look for opportunity.
+- Match the company’s **capability and interests** with opportunities.
 
 ---
+### **B) Focus on Understanding Customer Needs**:
+- Focus on understanding what the **customer needs/wants**.
+- Without truly understanding customer needs, **there is no business**.
+  
+---
 
-### **B) Invent New Customer Needs**:
-- Clearly define customer needs.
+### **C) Invent Into Customer Needs**:
+- Clearly defined needs provide perfect foil for inventors.
 - Discover **new ways** that could **radically change** how customers’ needs are met.
 
 ---
 
-### **C) Tool & Refine the Value Proposition**:
-- Create and **test** the value proposition with **real products** and **real customer settings**.
+### **D) Create new Value Proposition**:
+- Goes beyond product/service and  encompassess all aspects of new user experience.
+- Focus on **most complelling customer needs**
+- Identify **most novel ways** for satisfying them.
 
 ---
-
-### **Strategic Question**:
-- **Collaboration between business and R&D**: Define a strategic medium.
-- **Organizations need to bring customers in modularly**.
-- **Orient towards the customer and larger opportunities**.
-- The **opportunity space** lies in the intersection between business and R&D.
-
+### **E) Test and Refine the value proposition in use**:
+- Test in **real project and realistic settings**.
+- Refine the value proposition.
 ---
 
-### **D) Focus on Understanding Customer Needs**:
-- Focus on understanding what the **customer needs/wants**.
-- Without truly understanding customer needs, **there is no business**.
-- **Focus on compelling customer needs** and **novel ways** of satisfying them.
+![Reference 1](https://www.ieee-tems.org/)
+![References 2](https://jimeuchner.com/wp-content/uploads/2019/09/innovation-as-the-management-constraints.pdf)
 
----
 
-### **E) Create New Value Propositions**:
-- The new value proposition should go beyond the product or service.
-- It should encompass all aspects of new value creation.
 
----
-
-### **F) PASTA Framework**:
-- **PASTA** framework is mentioned (though not fully detailed in the image).
-- Appears to guide the process of clarifying customer needs, identifying opportunity space, and strategic questioning.
-
----
