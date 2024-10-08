@@ -1,4 +1,4 @@
-# InnovationNotes
+# Innovation Notes
 
 ![Innovation Clover](https://github.com/Abh4git/InnovationNotes/blob/main/innovation_clover.PNG)
 
