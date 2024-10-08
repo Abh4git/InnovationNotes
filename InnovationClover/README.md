@@ -1,4 +1,4 @@
-![Innovation Clover](https://github.com/Abh4git/InnovationNotes/blob/main/innovation_clover.PNG)
+![Innovation Clover](https://github.com/Abh4git/InnovationNotes/blob/main/InnovationClover/innovation_clover.PNG)
 
 ### **Innovation Clover (Top Diagram)**:
 This is a Venn diagram with four overlapping circles representing different considerations in the innovation process:
