@@ -1,3 +1,4 @@
+[Innovation Portfolio Architecture](https://github.com/Abh4git/InnovationNotes/blob/main/InnovationPortfolioArchitecture/innovation_portfolio_arch.PNG)
 ### **Innovation Portfolio Architecture**
 - The **innovation portfolio** is described as a **positive feedback, open-loop system** for evolving and discovering new ideas and products.
 - A process is outlined where different **concepts** move through stages of **materialization** and **testing** before reaching final approval.
