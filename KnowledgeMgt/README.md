@@ -1,1 +1,1 @@
-Knowledge Management plays a very big role in creating great workplaces which nurture innovation. One approach is on Knowledge Broker concept.
+Knowledge Management plays a very big role in creating great workplaces which nurture innovation. One approach is on [Knowledge Broker concept](https://github.com/Abh4git/InnovationNotes/blob/main/KnowledgeMgt/KnowledgeBroker.md).
